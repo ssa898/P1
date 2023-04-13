@@ -1,1 +1,3 @@
-Main en blanco
+seccion1
+
+seccion2
