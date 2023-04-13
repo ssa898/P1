@@ -1,3 +1,8 @@
+
 seccion1
+algoritmo
+
 
 seccion2
+
+
